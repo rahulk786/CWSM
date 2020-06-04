@@ -5,3 +5,4 @@
 * v4: crabs - Long Short Term Memory Recurrent Neural Nets (the breakthrough model)
 * v5: DhanVan4 - LSTM with rectified performance (stable)
 * v6: Elango-Esakki - Deep Reinforcement Learning using Actor-Critic algorithm
+* v7: Kanmani - Embedded LSTM-CNN neural net
