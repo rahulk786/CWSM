@@ -14,7 +14,7 @@
 
 *NOTE: since we were able to obtain only a temporary url for free, we will deploy our website for 1-hour intervals*
 ### DEPLOYED WEBSITE LINK: 
-* http://dabff6ed7ea8.ngrok.io/ (CURRENTLY LIVE from 7am to 12pm, 6th June 2020)
+* http://f9473af4cd1b.ngrok.io/ (CURRENTLY LIVE from 1pm to 4pm, 6th June 2020)
 
  ---
  
